@@ -10,7 +10,7 @@ The version of this package correlates to the `major.minor` client version of th
 
 ## Usage
 
-If you haven't already, login to NPM using your Github account. This requires [generating a personal access token](https://docs.github.com/en/enterprise-cloud@latest/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) with the `Read Packages` scope enabled.
+If you haven't already, login to NPM using your Github account. This requires [generating a personal access token](https://docs.github.com/en/enterprise-cloud@latest/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) with the `Read Packages` scope enabled. This is necessary because the package is hosted using the Github Packages Repository (GPR) instead of just on NPM. If you are trying to install the package in a Github Actions pipeline, it can also be done by setting the `NODE_AUTH_TOKEN` to the `GITHUB_TOKEN` secret exposed in Actions.
 
 ```
 npm login --scope=@rlss-gg --auth-type=legacy --registry=https://npm.pkg.github.com
@@ -137,6 +137,7 @@ Some items are not currently listed in this package.
 ### Important Details
 
 - While Octane is included in the dataset, it is listed as an `Exotic` when the default Octane all players start the game with is `Common`.
+- Some items are currently using the incorrect thumbnails in-game, and this has been replicated here. The thumbnails will be replaced with their correct ones when the game itself updates to make these fixes.
 
 ## Contributing
 
