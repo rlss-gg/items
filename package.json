@@ -1,0 +1,34 @@
+{
+  "name": "@rlss-gg/items",
+  "version": "1.7.0",
+  "description": "RL Sideswipe items database an an NPM package",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "scripts": {
+    "test": "echo \"No tests yet...\"",
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlss-gg/items.git"
+  },
+  "keywords": [
+    "rlsideswipe",
+    "items",
+    "collections"
+  ],
+  "author": "FinRL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rlss-gg/items/issues"
+  },
+  "homepage": "https://github.com/rlss-gg/items#readme",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
