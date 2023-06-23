@@ -153,6 +153,12 @@ export class Sticker extends BaseItem {
   }
 }
 
+export class Title extends BaseItem {
+  public constructor(name: string, rarity: Item.Rarity) {
+    super("Title", name, rarity, "t_ui_TitleTagIcon.png")
+  }
+}
+
 export class Topper extends BaseItem {
   public constructor(name: string, rarity: Item.Rarity, thumbnail: string) {
     super("Topper", name, rarity, thumbnail)
