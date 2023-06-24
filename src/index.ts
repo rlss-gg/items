@@ -24,10 +24,21 @@ export const wheels = Wheel
 
 // Constructors
 export const constructors = Constructor
+export type ItemType =
+  | Constructor.Avatar
+  | Constructor.Banner
+  | Constructor.Body
+  | Constructor.Decal
+  | Constructor.GoalExplosion
+  | Constructor.RocketBoost
+  | Constructor.Sticker
+  | Constructor.Title
+  | Constructor.Topper
+  | Constructor.Wheel
 
 // Endpoints
 export const endpoint = "https://cdn.rlss.gg/assets/items"
 
 // Types
+export * from "./types/Game"
 export * from "./types/Item"
-export * from "./types/Offering"

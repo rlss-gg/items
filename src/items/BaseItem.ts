@@ -1,5 +1,4 @@
 import { Item } from "../types/Item"
-import { Offering } from "../types/Offering"
 
 export default abstract class BaseItem {
   public readonly thumbnail: string
@@ -36,24 +35,6 @@ export default abstract class BaseItem {
         return price(960, 1152)
       default:
         return null
-    }
-  }
-
-  public getOfferingProps(
-    price: number,
-    duration: number,
-    paint?: Item.Paint,
-    featured: boolean = false
-  ): Offering {
-    return {
-      name: this.name,
-      rarity: this.rarity,
-      type: this.type,
-      thumbnail: this.thumbnail,
-      price,
-      duration,
-      featured,
-      paint
     }
   }
 
@@ -120,18 +101,6 @@ export class Decal extends BaseItem {
     thumbnail: string
   ) {
     super("Decal", name, rarity, thumbnail)
-  }
-
-  public getOfferingProps(
-    price: number,
-    duration: number,
-    paint?: Item.Paint,
-    featured: boolean = false
-  ): Offering {
-    return {
-      ...super.getOfferingProps(price, duration, paint, featured),
-      decalFor: this.body
-    }
   }
 }
 

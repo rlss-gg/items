@@ -59,18 +59,18 @@ const Streakwave = Items.decals.Universal.Streakwave
 
 Item thumbnails are stored as a relative path on the item itself.
 
-| Type           | Path                               |
-| -------------- | ---------------------------------- |
-| Avatar         | `/avatars/{thumbnail}.png`         |
-| Banner         | `/banners/{thumbnail}.png`         |
-| Body           | `/bodies/{thumbnail}.png`          |
-| Rocket Boost   | `/boosters/{thumbnail}.png`        |
-| Decal          | `/decals/{thumbnail}.png`          |
-| Goal Explosion | `/goal explosions/{thumbnail}.png` |
-| Sticker        | `/stickers/{thumbnail}.png`        |
-| Title          | `/titles/{thumbnail}.png`          |
-| Topper         | `/toppers/{thumbnail}.png`         |
-| Wheel          | `/wheels/{thumbnail}.png`          |
+| Type           | Path                                 |
+| -------------- | ------------------------------------ |
+| Avatar         | `/avatars/{thumbnail(.png)}`         |
+| Banner         | `/banners/{thumbnail(.png)}`         |
+| Body           | `/bodies/{thumbnail(.png)}`          |
+| Rocket Boost   | `/boosters/{thumbnail(.png)}`        |
+| Decal          | `/decals/{thumbnail(.png)}`          |
+| Goal Explosion | `/goal explosions/{thumbnail(.png)}` |
+| Sticker        | `/stickers/{thumbnail(.png)}`        |
+| Title          | `/titles/{thumbnail(.png)}`          |
+| Topper         | `/toppers/{thumbnail(.png)}`         |
+| Wheel          | `/wheels/{thumbnail(.png)}`          |
 
 To use our copies of the item thumbnails hosted on a global CDN, append our endpoint to the thumbnail:
 
