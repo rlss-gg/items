@@ -163,8 +163,8 @@ export const Barouche = new Wheel(
   "Very Rare",
   "d2e502673e1628669319.png"
 )
-export const Cyberwave = new Wheel(
-  "Cyberwave",
+export const Cyberware = new Wheel(
+  "Cyberware",
   "Rare",
   "c0c161231d1585158683.png"
 )
