@@ -81,7 +81,18 @@ export const BreakoutS = {
   )
 }
 export const CentioV17 = {
-  Mint: new Decal("Mint", "Centio V17", "Common", "t_Skin_Mint_thumbnail.png"),
+  MintCommon: new Decal(
+    "Mint",
+    "Centio V17",
+    "Common",
+    "t_Skin_Mint_thumbnail.png"
+  ),
+  MintRare: new Decal(
+    "Mint",
+    "Centio V17",
+    "Rare",
+    "t_Skin_Mint_thumbnail.png"
+  ),
   Stripes: new Decal(
     "Stripes",
     "Centio V17",

@@ -137,6 +137,7 @@ Some items are not currently listed in this package.
 ### Important Details
 
 - While Octane is included in the dataset, it is listed as an `Exotic` when the default Octane all players start the game with is `Common`.
+- Centio V17: Mint has a `Common` and a `Rare` version. This package has both with its key determining which is which.
 - Some items are currently using the incorrect thumbnails in-game, and this has been replicated here. The thumbnails will be replaced with their correct ones when the game itself updates to make these fixes.
 
 ## Contributing
