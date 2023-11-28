@@ -29,18 +29,18 @@ Import the package to access contents:
 ```ts
 import * as Items from "@rlss-gg/items"
 
-const octane = Items.bodies.Octane
+const breakout = Items.bodies.Breakout
 
-console.log(octane)
+console.log(breakout)
 //  {
 //    type: "Body",
-//    name: "Octane",
+//    name: "Breakout",
 //    rarity: "Exotic",
 //    salvage: {
 //      unpainted: 720,
 //      painted: 864
 //    },
-//    thumbnail: "/bodies/Octane_body_icon.png"
+//    thumbnail: "/bodies/Breakout_body_icon.png"
 //  }
 ```
 
@@ -78,14 +78,14 @@ To use our copies of the item thumbnails hosted on a global CDN, append our endp
 https://cdn.rlss.gg/assets/items
 ```
 
-The endpoint is exported by the package. As an example, this is how you get the Octane thumbnail:
+The endpoint is exported by the package. As an example, this is how you get the Breakout thumbnail:
 
 ```ts
 import * as Items from "@rlss-gg/items"
 
-const thumbnail = Items.endpoint + Item.bodies.Octane.thumbnail
+const thumbnail = Items.endpoint + Item.bodies.Breakout.thumbnail
 
-console.log(thumbnail) // https://cdn.rlss.gg/assets/items/bodies/Octane_body_icon.png
+console.log(thumbnail) // https://cdn.rlss.gg/assets/items/bodies/Breakout_body_icon.png
 ```
 
 ### Creating New Items
@@ -134,9 +134,9 @@ Some items are not currently listed in this package.
 - Giggles Egg (Sticker)
 - Let's Go Egg (Sticker)
 
-### Important Details
+## Important Details
 
-- While Octane is included in the dataset, it is listed as an `Exotic` when the default Octane all players start the game with is `Common`.
+- Octane has a `Common` and an `Exotic` version. This package has both with its key determining which is which.
 - Centio V17: Mint has a `Common` and a `Rare` version. This package has both with its key determining which is which.
 - Some items are currently using the incorrect thumbnails in-game, and this has been replicated here. The thumbnails will be replaced with their correct ones when the game itself updates to make these fixes.
 

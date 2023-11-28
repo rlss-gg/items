@@ -1,7 +1,8 @@
 import { Body } from "./BaseItem"
 
 export const Breakout = new Body("Breakout", "Exotic", "Breakout_body_icon.png")
-export const Octane = new Body("Octane", "Exotic", "Octane_body_icon.png")
+export const OctaneCommon = new Body("Octane", "Common", "Octane_body_icon.png")
+export const OctaneExotic = new Body("Octane", "Exotic", "Octane_body_icon.png")
 export const Aftershock = new Body(
   "Aftershock",
   "Exotic",
