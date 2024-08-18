@@ -42,14 +42,4 @@ export type Sticker = Constructors.Sticker
 export type Title = Constructors.Title
 export type Topper = Constructors.Topper
 export type Wheel = Constructors.Wheel
-export type ItemType =
-  | Avatar
-  | Banner
-  | Body
-  | Decal
-  | GoalExplosion
-  | RocketBoost
-  | Sticker
-  | Title
-  | Topper
-  | Wheel
+export type ItemType = Avatar | Banner | Body | Decal | GoalExplosion | RocketBoost | Sticker | Title | Topper | Wheel

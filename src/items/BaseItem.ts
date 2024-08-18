@@ -3,12 +3,7 @@ import { Item } from "../types/Item"
 export default abstract class BaseItem {
   public readonly thumbnail: string
 
-  public constructor(
-    public readonly type: Item.Type,
-    public readonly name: string,
-    public readonly rarity: Item.Rarity,
-    thumbnail: string
-  ) {
+  public constructor(public readonly type: Item.Type, public readonly name: string, public readonly rarity: Item.Rarity, thumbnail: string) {
     this.thumbnail = BaseItem.getIconPath(type) + thumbnail
   }
 
@@ -75,12 +70,7 @@ export class Avatar extends BaseItem {
 export class Banner extends BaseItem {
   public readonly full: string
 
-  public constructor(
-    name: string,
-    rarity: Item.Rarity,
-    thumbnail: string,
-    full: string
-  ) {
+  public constructor(name: string, rarity: Item.Rarity, thumbnail: string, full: string) {
     super("Banner", name, rarity, thumbnail)
 
     this.full = BaseItem.getIconPath("Banner") + full
@@ -94,12 +84,7 @@ export class Body extends BaseItem {
 }
 
 export class Decal extends BaseItem {
-  public constructor(
-    name: string,
-    public readonly body: string,
-    rarity: Item.Rarity,
-    thumbnail: string
-  ) {
+  public constructor(name: string, public readonly body: string, rarity: Item.Rarity, thumbnail: string) {
     super("Decal", name, rarity, thumbnail)
   }
 }

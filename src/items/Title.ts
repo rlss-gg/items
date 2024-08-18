@@ -12,21 +12,12 @@ export const NewBlood = new Title("New Blood", "Import")
 export const Showboat = new Title("Showboat", "Import")
 export const TwentyXX2rbo2sday = new Title("20XX 2rbo 2sday", "Exotic")
 export const ExtraOrdinary = new Title("Extra Ordinary", "Black Market")
-export const PocketLeagueMaster = new Title(
-  "Pocket League Master",
-  "Black Market"
-)
+export const PocketLeagueMaster = new Title("Pocket League Master", "Black Market")
 export const PartyOn = new Title("Party On!", "Limited")
 export const Developer = new Title("Developer", "Premium")
 export const FirstStreamer = new Title("First Streamer", "Premium")
 export const Moderator = new Title("Moderator", "Premium")
-export const Season = (
-  rank: Omit<Game.Rank, "Unranked">,
-  season: Game.Season
-) =>
-  Number(season) === season
-    ? new Title(`S${season} ${rank}`, "Limited")
-    : new Title(`${season} ${rank}`, "Rare")
+export const Season = (rank: Omit<Game.Rank, "Unranked">, season: Game.Season) => (Number(season) === season ? new Title(`S${season} ${rank}`, "Limited") : new Title(`${season} ${rank}`, "Rare"))
 
 /**
  * Seasons were done this way in order to create all season titles from now
