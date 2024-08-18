@@ -1,5 +1,5 @@
 export namespace Item {
-  export type Rarity = "Default" | "Currency" | "Common" | "Uncommon" | "Rare" | "Very Rare" | "Import" | "Exotic" | "Black Market" | "Limited" | "Premium"
+  export type Rarity = "Default" | "Currency" | "Base" | "Sport" | "Special" | "Deluxe" | "Import" | "Exotic" | "Black Market" | "Luxury" | "Premium"
 
   export type Paint = "Black" | "Burnt Sienna" | "Cobalt" | "Crimson" | "Forest Green" | "Grey" | "Lime" | "Orange" | "Pink" | "Purple" | "Saffron" | "Sky Blue" | "Titanium White"
 

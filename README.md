@@ -135,8 +135,8 @@ Some items are not currently listed in this package.
 
 ## Important Details
 
-- Octane has a `Common` and an `Exotic` version. This package has both with its key determining which is which.
-- Centio V17: Mint has a `Common` and a `Rare` version. This package has both with its key determining which is which.
+- Octane has a `Base` and an `Exotic` version. This package has both with its key determining which is which.
+- Centio V17: Mint has a `Base` and a `Special` version. This package has both with its key determining which is which.
 - Some items are currently using the incorrect thumbnails in-game, and this has been replicated here. The thumbnails will be replaced with their correct ones when the game itself updates to make these fixes.
 
 ## Contributing

@@ -1,7 +1,7 @@
 import { Body } from "./BaseItem"
 
 export const Breakout = new Body("Breakout", "Exotic", "Breakout_body_icon.png")
-export const OctaneCommon = new Body("Octane", "Common", "Octane_body_icon.png")
+export const OctaneBase = new Body("Octane", "Base", "Octane_body_icon.png")
 export const OctaneExotic = new Body("Octane", "Exotic", "Octane_body_icon.png")
 export const Aftershock = new Body("Aftershock", "Exotic", "Aftershock_body_icon.png")
 export const BreakoutS = new Body("Breakout-S", "Black Market", "Breakout_Type-S_body_icon.png")
@@ -27,4 +27,4 @@ export const R3MX = new Body("R3MX", "Import", "R3MX_body_icon.png")
 export const Dingo = new Body("Dingo", "Black Market", "Dingo_body_icon.png")
 export const Maverick = new Body("Maverick", "Exotic", "Maverick_body_icon.png")
 export const DominusGT = new Body("Dominus GT", "Black Market", "75e8bb7e5d1473412157.png")
-export const Whiplash = new Body("Whiplash", "Limited", "Whiplash_body_icon.png")
+export const Whiplash = new Body("Whiplash", "Luxury", "Whiplash_body_icon.png")

@@ -14,13 +14,13 @@ export default abstract class BaseItem {
     })
 
     switch (this.rarity) {
-      case "Common":
+      case "Base":
         return price(60, 72)
-      case "Uncommon":
+      case "Sport":
         return price(120, 144)
-      case "Rare":
+      case "Special":
         return price(240, 288)
-      case "Very Rare":
+      case "Deluxe":
         return price(360, 432)
       case "Import":
         return price(540, 648)

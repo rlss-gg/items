@@ -26,6 +26,6 @@ export const MrMonsoon = new GoalExplosion("Mr. Monsoon", "Black Market", "Explo
 export const SpatialRift = new GoalExplosion("Spatial Rift", "Exotic", "SpatialRift_GE_Thumbnail.png")
 export const Dunker = new GoalExplosion("Dunker", "Exotic", "explosion_doughnut_TThumbnail.png")
 export const BallisticProGold = new GoalExplosion("Ballistic Pro Gold", "Black Market", "Explosion__MiniRLBalls_Gold_T.png")
-export const Standard = new GoalExplosion("Standard", "Common", "T_Explosion_Standard.png")
+export const Standard = new GoalExplosion("Standard", "Base", "T_Explosion_Standard.png")
 export const Calculated = new GoalExplosion("Calculated", "Black Market", "Explosion_Calculated_Thumbnail.png")
 export const Wow = new GoalExplosion("Wow", "Black Market", "Thumbnail_Exp_WowQuickchat.png")
