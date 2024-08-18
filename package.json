@@ -1,6 +1,6 @@
 {
   "name": "@rlss-gg/items",
-  "version": "1.7.5",
+  "version": "1.8.3",
   "description": "RL Sideswipe items database an an NPM package",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
