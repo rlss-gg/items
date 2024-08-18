@@ -107,6 +107,10 @@ This works in the exact same way the existing items are created, meaning there w
 
 Some items are not currently listed in this package.
 
+### Obscure Items
+
+- Unique Developer Titles e.g. Scamp
+
 ### Thumbnails Required
 
 - Birthday Candle (Topper)

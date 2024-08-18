@@ -1,5 +1,13 @@
 export namespace Game {
-  export type Rank = "Unranked" | "Bronze" | "Silver" | "Gold" | "Diamond" | "Champion" | "Grand Champion"
+  export type NonCompetitiveRank = "Unranked"
+  export type CompetitiveRank = "Bronze" | "Silver" | "Gold" | "Diamond" | "Champion" | "Grand Champion"
+  export type Rank = NonCompetitiveRank | CompetitiveRank
 
-  export type Season = "Alpha" | "Pre-Season" | number
+  export type EarlySeason = "Alpha" | "Pre-Season"
+  export type ReleaseSeason = number
+  export type Season = EarlySeason | ReleaseSeason
+
+  export type RegularMode = "Duel" | "Doubles" | "Mutator Madness"
+  export type LtmMode = "Hoops" | "Volleyball" | "Threes" | "Heatseeker"
+  export type Mode = RegularMode | LtmMode
 }

@@ -76,3 +76,4 @@ export const S17Champion = new Avatar("S17 Champion", "Luxury", "T_UI_Avatar_S17
 export const S17GrandChampion = new Avatar("S17 Grand Champion", "Luxury", "T_UI_Avatar_S17_GrandChampion.png")
 export const IceCube = new Avatar("Ice Cube", "Sport", "t_ui_Avatar_MeltingIcecube.png")
 export const SeaSick = new Avatar("Sea Sick", "Sport", "t_ui_Avatar_SeaSick.png")
+export const LoyalBall = new Avatar("Loyal Ball", "Luxury", "t_ui_Avatar_LoyalBall.png")
