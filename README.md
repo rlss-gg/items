@@ -95,11 +95,7 @@ With the way the thumbnails are setup, you can use the exported constructors to 
 ```ts
 import * as Items from "@rlss-gg/items"
 
-const MyCar = new Items.constructors.Body(
-  "MyCar",
-  "Black Market",
-  "mycar_thumbnail.png"
-)
+const MyCar = new Items.constructors.Body("MyCar", "Black Market", "mycar_thumbnail.png")
 
 // Accessing thumbnail hosted at "https://my.domain.com/items/bodies/mycar_thumbnail.png"
 const thumbnail = "https://my.domain.com/items" + MyCar.thumbnail
@@ -113,26 +109,29 @@ Some items are not currently listed in this package.
 
 ### Thumbnails Required
 
-- Octane Gold (Body)
 - Birthday Candle (Topper)
 - Dev Hat (Topper)
+- Diestro Gold (Body)
+- Octane Gold (Body)
 
 ### Unreleased
 
+- Beach Party (Goal Explosion)
+- Bi Egg (Sticker)
+- Cactus Guy (Avatar)
 - Cereal (Avatar)
-- Salad (Banner)
+- Deadlicious (Avatar)
 - Default Blue (Banner)
 - Default Orange (Banner)
-- Beach Party (Goal Explosion)
-- Techy (Goal Explosion)
-- Trans Pride (Rocket Boost)
-- Bi Egg (Sticker)
-- Rainbow Egg (Sticker)
-- Trans Egg (Sticker)
-- Savage (Sticker)
-- Trash (Sticker)
 - Giggles Egg (Sticker)
 - Let's Go Egg (Sticker)
+- Rainbow Egg (Sticker)
+- Salad (Banner)
+- Savage (Sticker)
+- Techy (Goal Explosion)
+- Trans Egg (Sticker)
+- Trans Pride (Rocket Boost)
+- Trash (Sticker)
 
 ## Important Details
 

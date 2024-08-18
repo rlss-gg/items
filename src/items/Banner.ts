@@ -94,3 +94,6 @@ export const S12Platinum = new Banner("S12 Platinum", "Limited", "t_ui_Thumb_Ban
 export const S12Diamond = new Banner("S12 Diamond", "Limited", "t_ui_Thumb_Banner_S12_Diamond.png", "t_ui_Banner_S12_Diamond.png")
 export const S12Champion = new Banner("S12 Champion", "Limited", "t_ui_Thumb_Banner_S12_Champion.png", "t_ui_Banner_S12_Champion.png")
 export const S12GrandChampion = new Banner("S12 Grand Champion", "Limited", "t_ui_Thumb_Banner_S12_GrandChampion.png", "t_ui_Banner_S12_GrandChampion.png")
+export const CactusPlant = new Banner("Cactus Plant", "Uncommon", "t_ui_Thumb_Banner_CactusPlant.png", "t_ui_Banner_CactusPlant.png")
+export const SoftServe = new Banner("Soft Serve", "Uncommon", "t_ui_Thumb_Banner_SoftServe.png", "t_ui_Banner_SoftServe.png")
+export const DroolingShark = new Banner("Drooling Shark", "Rare", "t_ui_Thumb_Banner_DroolingShark.png", "t_ui_Banner_DroolingShark.png")
