@@ -6,8 +6,6 @@ Whether it's a Sideswipe economy Discord bot or something completely different, 
 
 Need to ask a question or get in contact with RLSS.GG? The best way to contact us is by creating a ticket [in our Discord server](https://rlss.gg/discord).
 
-The version of this package correlates to the `major.minor` client version of the game, with the `patch` being used to fix problems with the package.
-
 ## Usage
 
 If you haven't already, login to NPM using your Github account. This requires [generating a personal access token](https://docs.github.com/en/enterprise-cloud@latest/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) with the `Read Packages` scope enabled. This is necessary because the package is hosted using the Github Packages Repository (GPR) instead of just on NPM. If you are trying to install the package in a Github Actions pipeline, it can also be done by setting the `NODE_AUTH_TOKEN` to the `GITHUB_TOKEN` secret exposed in Actions.
