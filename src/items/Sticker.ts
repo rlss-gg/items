@@ -49,6 +49,20 @@ export const EggSad = new Sticker("Sad Egg", "Sport", "t_ui_Egg_Sad.png")
 export const EggHappyDev = new Sticker("Dev Happy Egg", "Premium", "t_ui_Egg_Dev_Happy.png")
 export const EggAngryDev = new Sticker("Dev Angry Egg", "Premium", "t_ui_Egg_Dev_Angry.png")
 export const EggSadDev = new Sticker("Dev Sad Egg", "Premium", "t_ui_Egg_Dev_Sad.png")
+
+// S17
+export const Sharp = new Sticker("Sharp", "Sport", "t_ui_Sticker_Shark.png")
+export const EggSummer = new Sticker("Summer Egg", "Sport", "t_ui_egg_summer.png")
+export const Outch = new Sticker("Outch", "Sport", "t_ui_OutchCactus.png")
+export const YouGotMe = new Sticker("You Got Me", "Sport", "t_ui_sticker_YouGotMe.png")
+
+// S18
+export const PixelEgg = new Sticker("Pixel Egg", "Sport", "t_ui_Sticker_PixelEgg.png")
+export const Lucky = new Sticker("Lucky", "Special", "t_ui_Sticker_Lucky.png")
+export const PeaceToYou = new Sticker("Peace To You", "Sport", "t_ui_Sticker_PeaceToYou.png")
+export const Nani = new Sticker("Nani", "Deluxe", "t_ui_Sticker_Nani.png")
+
+// Season Rewards
 export const S1Bronze = new Sticker("S1 Bronze", "Luxury", "t_ui_S1_Bronze.png")
 export const S1Silver = new Sticker("S1 Silver", "Luxury", "t_ui_S1_Silver.png")
 export const S1Gold = new Sticker("S1 Gold", "Luxury", "t_ui_S1_Gold.png")
@@ -63,7 +77,3 @@ export const S4Platinum = new Sticker("S4 Platinum", "Luxury", "Quickchat_S4_Pla
 export const S4Diamond = new Sticker("S4 Diamond", "Luxury", "Quickchat_S4_Diamond.png")
 export const S4Champion = new Sticker("S4 Champion", "Luxury", "Quickchat_S4_Champion.png")
 export const S4GrandChampion = new Sticker("S4 Grand Champion", "Luxury", "Quickchat_S4_GrandChampion.png")
-export const Sharp = new Sticker("Sharp", "Sport", "t_ui_Sticker_Shark.png")
-export const EggSummer = new Sticker("Summer Egg", "Sport", "t_ui_egg_summer.png")
-export const Outch = new Sticker("Outch", "Sport", "t_ui_OutchCactus.png")
-export const YouGotMe = new Sticker("You Got Me", "Sport", "t_ui_sticker_YouGotMe.png")

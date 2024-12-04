@@ -136,12 +136,23 @@ Some items are not currently listed in this package.
 - Trans Egg (Sticker)
 - Trans Pride (Rocket Boost)
 - Trash (Sticker)
+- Blowing Fan (Banner)
 
 ## Important Details
 
 - Octane has a `Base` and an `Exotic` version. This package has both with its key determining which is which.
 - Centio V17: Mint has a `Base` and a `Special` version. This package has both with its key determining which is which.
 - Some items are currently using the incorrect thumbnails in-game, and this has been replicated here. The thumbnails will be replaced with their correct ones when the game itself updates to make these fixes.
+
+## Versioning
+
+The versioning of this package is centred around the competitive season the database is up-to-date with. Previously, it followed the app version, but has been changed to account for package bug fixes. In the version number `x.y.z`:
+
+- `x`: Major package changes (should rarely occur)
+- `y`: In-game competitive season
+- `z`: Patch version as mini-updates or package bug fixes occur
+
+As an example, version `1.18.0` is in the first major package version, competitive season 18, and has had 0 previous patches to increment off.
 
 ## Contributing
 

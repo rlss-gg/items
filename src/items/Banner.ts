@@ -52,6 +52,21 @@ export const Hoagie = new Banner("Hoagie", "Base", "t_ui_Thumb_Banner_Hoagie.png
 export const Sandwich = new Banner("Sandwich", "Base", "t_ui_Thumb_Banner__HotDog.png", "t_ui_Banner_Hotdog.png")
 export const OctoToon = new Banner("OctoToon", "Deluxe", "t_ui_Thumb_Banner_OctoToon.png", "t_ui_Banner_OctoToon.png")
 export const SushiRoll = new Banner("Sushi Roll", "Base", "t_ui_Thumb_Banner__SushiRoll.png", "t_ui_Banner_SushiRoll.png")
+
+// S17
+export const CactusPlant = new Banner("Cactus Plant", "Sport", "t_ui_Thumb_Banner_CactusPlant.png", "t_ui_Banner_CactusPlant.png")
+export const SoftServe = new Banner("Soft Serve", "Sport", "t_ui_Thumb_Banner_SoftServe.png", "t_ui_Banner_SoftServe.png")
+export const DroolingShark = new Banner("Drooling Shark", "Special", "t_ui_Thumb_Banner_DroolingShark.png", "t_ui_Banner_DroolingShark.png")
+
+// S18
+export const YummyCity = new Banner("Yummy City", "Sport", "t_ui_Thumb_Banner_YummyCity.png", "t_ui_Banner_YummyCity.png")
+export const YuckCity = new Banner("Yuck City", "Sport", "t_ui_Thumb_YuckCity.png", "t_ui_Banner_YuckCity.png")
+export const Cassette1 = new Banner("Cassette 1", "Special", "t_ui_Thumb_Banner_Cassette1.png", "t_ui_Banner_Cassette1.png")
+export const Cassette13 = new Banner("Cassette 13", "Special", "t_ui_Thumb_Banner_Cassette13.png", "t_ui_Banner_Cassette13.png")
+export const HappyHalloween = new Banner("Happy Halloween", "Luxury", "t_ui_Thumb_Banner_HappyHalloween.png", "t_ui_Banner_HappyHalloween.png")
+export const GrimHalloween = new Banner("Grim Halloween", "Luxury", "t_ui_Thumb_Banner_GrimHalloween.png", "t_ui_Banner_GrimHalloween.png")
+
+// Season Rewards
 export const S2Bronze = new Banner("S2 Bronze", "Luxury", "t_ui_Thumb_Banner_S2_Bronze.png", "t_ui_Banner_s2bronze.png")
 export const S2Silver = new Banner("S2 Silver", "Luxury", "t_ui_Thumb_Banner_S2_Silver.png", "t_ui_Banner_s2silver.png")
 export const S2Gold = new Banner("S2 Gold", "Luxury", "t_ui_Thumb_Banner_S2_Gold.png", "t_ui_Banner_s2gold.png")
@@ -94,6 +109,10 @@ export const S12Platinum = new Banner("S12 Platinum", "Luxury", "t_ui_Thumb_Bann
 export const S12Diamond = new Banner("S12 Diamond", "Luxury", "t_ui_Thumb_Banner_S12_Diamond.png", "t_ui_Banner_S12_Diamond.png")
 export const S12Champion = new Banner("S12 Champion", "Luxury", "t_ui_Thumb_Banner_S12_Champion.png", "t_ui_Banner_S12_Champion.png")
 export const S12GrandChampion = new Banner("S12 Grand Champion", "Luxury", "t_ui_Thumb_Banner_S12_GrandChampion.png", "t_ui_Banner_S12_GrandChampion.png")
-export const CactusPlant = new Banner("Cactus Plant", "Sport", "t_ui_Thumb_Banner_CactusPlant.png", "t_ui_Banner_CactusPlant.png")
-export const SoftServe = new Banner("Soft Serve", "Sport", "t_ui_Thumb_Banner_SoftServe.png", "t_ui_Banner_SoftServe.png")
-export const DroolingShark = new Banner("Drooling Shark", "Special", "t_ui_Thumb_Banner_DroolingShark.png", "t_ui_Banner_DroolingShark.png")
+export const S17Bronze = new Banner("S17 Bronze", "Luxury", "t_ui_Thumb_Banner_S18_Bronze.png", "t_ui_Banner_S18_Bronze.png")
+export const S17Silver = new Banner("S17 Silver", "Luxury", "t_ui_Thumb_Banner_S18_Silver.png", "t_ui_Banner_S18_Silver.png")
+export const S17Gold = new Banner("S17 Gold", "Luxury", "t_ui_Thumb_Banner_S18_Gold.png", "t_ui_Banner_S18_Gold.png")
+export const S17Platinum = new Banner("S17 Platinum", "Luxury", "t_ui_Thumb_Banner_S18Platinum.png", "t_ui_Banner_S18Platinum.png")
+export const S17Diamond = new Banner("S17 Diamond", "Luxury", "t_ui_Thumb_Banner_S18_Diamond.png", "t_ui_Banner_S18_Diamond.png")
+export const S17Champion = new Banner("S17 Champion", "Luxury", "t_ui_Thumb_Banner_S18_Champion.png", "t_ui_Banner_S18_Champion.png")
+export const S17GrandChampion = new Banner("S17 Grand Champion", "Luxury", "t_ui_Thumb_Banner_S18_GrandChampion.png", "t_ui_Banner_S18_GrandChampion.png")

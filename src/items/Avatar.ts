@@ -39,6 +39,23 @@ export const Takumi = new Avatar("Takumi", "Base", "t_ui_Avatar_Takumi.png")
 export const None = new Avatar("None", "Base", "t_ui_AvatarDefault.png")
 export const GildedBall = new Avatar("Gilded Ball", "Black Market", "t_ui_Avatar_GildedBall.png")
 export const Psyonix = new Avatar("Psyonix", "Premium", "t_ui_Avatar_Psyonix.png")
+
+// S17
+export const IceCube = new Avatar("Ice Cube", "Sport", "t_ui_Avatar_MeltingIcecube.png")
+export const SeaSick = new Avatar("Sea Sick", "Sport", "t_ui_Avatar_SeaSick.png")
+export const LoyalBall = new Avatar("Loyal Ball", "Luxury", "t_ui_Avatar_LoyalBall.png")
+
+// S18
+export const KitsuneMask = new Avatar("Kitsune Mask", "Sport", "t_ui_Avatar_KitsuneMask.png")
+export const OniMask = new Avatar("Oni Mask", "Sport", "t_ui_Avatar_OniMask.png")
+export const LuckyCat = new Avatar("Lucky Cat", "Sport", "t_ui_Avatar_LuckyCat.png")
+export const CursedCat = new Avatar("Cursed Cat", "Sport", "t_ui_Avatar_CursedCat.png")
+export const RamenBowl = new Avatar("Ramen Bowl", "Sport", "t_ui_Avatar_RamenBowl.png")
+export const SkullBowl = new Avatar("Skull Bowl", "Sport", "t_ui_Avatar_SkullBowl.png")
+export const SquashJack = new Avatar("Squash Jack", "Luxury", "t_ui_Avatar_PumpkinSquash.png")
+export const PumpkinJack = new Avatar("Pumpkin Jack", "Luxury", "t_ui_Avatar_PumpkinJack.png")
+
+// Season Rewards
 export const S3Bronze = new Avatar("S3 Bronze", "Luxury", "t_ui_Avatar_S3_Bronze.png")
 export const S3Silver = new Avatar("S3 Silver", "Luxury", "t_ui_Avatar_S3_Silver.png")
 export const S3Gold = new Avatar("S3 Gold", "Luxury", "t_ui_Avatar_S3_Gold.png")
@@ -74,6 +91,3 @@ export const S17Platinum = new Avatar("S17 Platinum", "Luxury", "T_UI_Avatar_S17
 export const S17Diamond = new Avatar("S17 Diamond", "Luxury", "T_UI_Avatar_S17_Diamond.png")
 export const S17Champion = new Avatar("S17 Champion", "Luxury", "T_UI_Avatar_S17_Champion.png")
 export const S17GrandChampion = new Avatar("S17 Grand Champion", "Luxury", "T_UI_Avatar_S17_GrandChampion.png")
-export const IceCube = new Avatar("Ice Cube", "Sport", "t_ui_Avatar_MeltingIcecube.png")
-export const SeaSick = new Avatar("Sea Sick", "Sport", "t_ui_Avatar_SeaSick.png")
-export const LoyalBall = new Avatar("Loyal Ball", "Luxury", "t_ui_Avatar_LoyalBall.png")
