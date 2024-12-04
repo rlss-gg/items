@@ -15,14 +15,20 @@ export const ExtraOrdinary = new Title("Extra Ordinary", "Black Market")
 export const PocketLeagueMaster = new Title("Pocket League Master", "Black Market")
 export const InfiniteRocketeer = new Title("Infinite Rocketeer", "Black Market")
 export const PartyOn = new Title("Party On!", "Luxury")
-export const LongTimeFan = new Title("Long-Time Fan", "Luxury")
 export const Developer = new Title("Developer", "Premium")
 export const FirstStreamer = new Title("First Streamer", "Premium")
 export const Moderator = new Title("Moderator", "Premium")
+
+// S17
+export const LongTimeFan = new Title("Long-Time Fan", "Luxury")
+
+// S18
+export const StreetKid = new Title("Street Kid", "Luxury")
+export const CityRat = new Title("City Rat", "Luxury")
+export const NightOwl = new Title("Night Owl", "Luxury")
+export const DarkSider = new Title("Dark Sider", "Luxury")
+export const ThirdSwipeversary = new Title("Third Swipeversary", "Exotic")
+
+// Season Rewards
 export const Season = (rank: Game.CompetitiveRank, season: Game.Season) => (Number(season) === season ? new Title(`S${season} ${rank}`, "Luxury") : new Title(`${season} ${rank}`, "Special"))
 export const SeasonLtm = (rank: Game.CompetitiveRank, season: Game.ReleaseSeason, mode: Game.Mode) => new Title(`S${season} ${mode} ${rank}`, "Luxury")
-
-/**
- * Seasons were done this way in order to create all season titles from now
- * onwards without needing to add new identical titles each season.
- */
