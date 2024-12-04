@@ -134,6 +134,7 @@ Some items are not currently listed in this package.
 - Trans Egg (Sticker)
 - Trans Pride (Rocket Boost)
 - Trash (Sticker)
+- Fierce (Sticker)
 - Blowing Fan (Banner)
 
 ## Important Details
