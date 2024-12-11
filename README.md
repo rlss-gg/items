@@ -125,8 +125,10 @@ Some items are not currently listed in this package.
 - Deadlicious (Avatar)
 - Default Blue (Banner)
 - Default Orange (Banner)
+- Fierce (Sticker)
 - Giggles Egg (Sticker)
 - Let's Go Egg (Sticker)
+- Mrs Avocado (Topper)
 - Rainbow Egg (Sticker)
 - Salad (Banner)
 - Savage (Sticker)
@@ -134,7 +136,6 @@ Some items are not currently listed in this package.
 - Trans Egg (Sticker)
 - Trans Pride (Rocket Boost)
 - Trash (Sticker)
-- Fierce (Sticker)
 - Blowing Fan (Banner)
 
 ## Important Details
