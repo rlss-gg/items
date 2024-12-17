@@ -29,6 +29,13 @@ export const NightOwl = new Title("Night Owl", "Luxury")
 export const DarkSider = new Title("Dark Sider", "Luxury")
 export const ThirdSwipeversary = new Title("Third Swipeversary", "Exotic")
 
+// S19
+export const BigfootWitness = new Title("BIGFOOT WITNESS", "Special")
+export const EggnogSpecialist = new Title("EGGNOG SPECIALIST", "Sport")
+export const LittleHelper = new Title("LITTLE HELPER", "Luxury")
+export const ColdWishes = new Title("COLD WISHES", "Luxury")
+export const GlossySnake = new Title("GLOSSY SNAKE", "Luxury")
+
 // Season Rewards
 export const Season = (rank: Game.CompetitiveRank, season: Game.Season) => (Number(season) === season ? new Title(`S${season} ${rank}`, "Luxury") : new Title(`${season} ${rank}`, "Special"))
 export const SeasonLtm = (rank: Game.CompetitiveRank, season: Game.ReleaseSeason, mode: Game.Mode) => new Title(`S${season} ${mode} ${rank}`, "Luxury")

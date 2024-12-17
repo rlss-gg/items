@@ -62,6 +62,11 @@ export const Lucky = new Sticker("Lucky", "Special", "t_ui_Sticker_Lucky.png")
 export const PeaceToYou = new Sticker("Peace To You", "Sport", "t_ui_Sticker_PeaceToYou.png")
 export const Nani = new Sticker("Nani", "Deluxe", "t_ui_Sticker_Nani.png")
 
+// S19
+export const SnakeLantern = new Sticker("Snake Lantern", "Sport", "t_ui_sticker_SnakeLantern.png")
+export const WinterEgg = new Sticker("Winter Egg", "Sport", "t_ui_sticker_SantaEgg.png")
+export const Help = new Sticker("HELP", "Special", "t_ui_Sticker_HELP.png")
+
 // Season Rewards
 export const S1Bronze = new Sticker("S1 Bronze", "Luxury", "t_ui_S1_Bronze.png")
 export const S1Silver = new Sticker("S1 Silver", "Luxury", "t_ui_S1_Silver.png")

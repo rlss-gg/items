@@ -55,6 +55,15 @@ export const SkullBowl = new Avatar("Skull Bowl", "Sport", "t_ui_Avatar_SkullBow
 export const SquashJack = new Avatar("Squash Jack", "Luxury", "t_ui_Avatar_PumpkinSquash.png")
 export const PumpkinJack = new Avatar("Pumpkin Jack", "Luxury", "t_ui_Avatar_PumpkinJack.png")
 
+// S19
+export const Squatchie = new Avatar("Squatchie", "Sport", "t_ui_Avatar_Squatchie.png")
+export const GingerBite = new Avatar("Ginger Bite", "Sport", "t_ui_Avatar_GingerBite.png")
+export const FrozenEgg = new Avatar("Frozen Egg", "Sport", "t_ui_Avatar_FrozenEgg.png")
+export const Snowman = new Avatar("Snowman", "Luxury", "t_ui_Avatar_Snowman.png")
+export const Sandman = new Avatar("Sandman", "Luxury", "t_ui_Avatar_Sandman.png")
+export const Mistletoe = new Avatar("Mistletoe", "Luxury", "t_ui_Avatar_Mistletoe.png")
+export const GoodLuckKnot = new Avatar("Good Luck Knot", "Luxury", "t_ui_Avatar_GoodLuckKnot.png")
+
 // Season Rewards
 export const S3Bronze = new Avatar("S3 Bronze", "Luxury", "t_ui_Avatar_S3_Bronze.png")
 export const S3Silver = new Avatar("S3 Silver", "Luxury", "t_ui_Avatar_S3_Silver.png")
@@ -91,3 +100,10 @@ export const S17Platinum = new Avatar("S17 Platinum", "Luxury", "T_UI_Avatar_S17
 export const S17Diamond = new Avatar("S17 Diamond", "Luxury", "T_UI_Avatar_S17_Diamond.png")
 export const S17Champion = new Avatar("S17 Champion", "Luxury", "T_UI_Avatar_S17_Champion.png")
 export const S17GrandChampion = new Avatar("S17 Grand Champion", "Luxury", "T_UI_Avatar_S17_GrandChampion.png")
+export const S19Bronze = new Avatar("S19 Bronze", "Luxury", "t_ui_Avatar_S19_Bronze.png")
+export const S19Silver = new Avatar("S19 Silver", "Luxury", "t_ui_Avatar_S19_Silver.png")
+export const S19Gold = new Avatar("S19 Gold", "Luxury", "t_ui_Avatar_S19_Gold.png")
+export const S19Platinum = new Avatar("S19 Platinum", "Luxury", "t_ui_Avatar_S19_Platinum.png")
+export const S19Diamond = new Avatar("S19 Diamond", "Luxury", "t_ui_Avatar_S19_Diamond.png")
+export const S19Champion = new Avatar("S19 Champion", "Luxury", "t_ui_Avatar_S19_Champion.png")
+export const S19GrandChampion = new Avatar("S19 Grand Champion", "Luxury", "t_ui_Avatar_S19_GrandChampion.png")

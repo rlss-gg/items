@@ -66,6 +66,15 @@ export const Cassette13 = new Banner("Cassette 13", "Special", "t_ui_Thumb_Banne
 export const HappyHalloween = new Banner("Happy Halloween", "Luxury", "t_ui_Thumb_Banner_HappyHalloween.png", "t_ui_Banner_HappyHalloween.png")
 export const GrimHalloween = new Banner("Grim Halloween", "Luxury", "t_ui_Thumb_Banner_GrimHalloween.png", "t_ui_Banner_GrimHalloween.png")
 
+// S19
+export const TongueStuck = new Banner("Tongue Stuck", "Sport", "t_ui_Thumb_Banner_TongueStuck.png", "t_ui_Banner_TongueStuck.png")
+export const SugaryCabin = new Banner("Sugary Cabin", "Sport", "t_ui_Thumb_Banner_SugaryCabin.png", "t_ui_Banner_SugaryCabin.png")
+export const AvalancheRider = new Banner("Avalanche Rider", "Sport", "t_ui_Thumb_Banner_AvalancheRider.png", "t_ui_Banner_AvalancheRider.png")
+export const NorthernFest = new Banner("Northern Fest", "Luxury", "t_ui_Thumb_Banner_NorthernChrismas.png", "t_ui_Banner_NorthernChrismas.png")
+export const SouthernFest = new Banner("Southern Fest", "Luxury", "t_ui_Thumb_Banner_SouthernChrismas.png", "t_ui_Banner_SouthernChrismas.png")
+export const NewYearFrost = new Banner("New Year Frost", "Luxury", "t_ui_Thumb_Banner_NewYearFrost.png", "t_ui_Banner_NewYearFrost.png")
+export const YearOfTheSnake = new Banner("Year of the Snake", "Luxury", "t_ui_Thumb_Banner_YearOfTheSnake.png", "t_ui_Banner_YearOfTheSnake.png")
+
 // Season Rewards
 export const S2Bronze = new Banner("S2 Bronze", "Luxury", "t_ui_Thumb_Banner_S2_Bronze.png", "t_ui_Banner_s2bronze.png")
 export const S2Silver = new Banner("S2 Silver", "Luxury", "t_ui_Thumb_Banner_S2_Silver.png", "t_ui_Banner_s2silver.png")

@@ -115,6 +115,7 @@ Some items are not currently listed in this package.
 - Dev Hat (Topper)
 - Diestro Gold (Body)
 - Octane Gold (Body)
+- Diestro Neon (Body)
 
 ### Unreleased
 
