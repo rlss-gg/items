@@ -8,6 +8,6 @@ export namespace Game {
   export type Season = EarlySeason | ReleaseSeason
 
   export type RegularMode = "Duel" | "Doubles" | "Mutator Madness"
-  export type LtmMode = "Hoops" | "Volleyball" | "Threes" | "Heatseeker"
+  export type LtmMode = "Hoops" | "Volleyball" | "Threes" | "Heatseeker" | "Squash"
   export type Mode = RegularMode | LtmMode
 }
