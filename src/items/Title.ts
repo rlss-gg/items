@@ -15,7 +15,7 @@ export const ExtraOrdinary = new Title("EXTRA ORDINARY", "Black Market")
 export const PocketLeagueMaster = new Title("POCKET LEAGUE MASTER", "Black Market")
 export const InfiniteRocketeer = new Title("INFINITE ROCKETEER", "Black Market")
 export const PartyOn = new Title("PARTY ON!", "Luxury")
-export const Developer = new Title("DEVELOPER", "Premium")
+export const Developer = new Title("DEVELOPER", "Developer")
 export const FirstStreamer = new Title("FIRST STREAMER", "Premium")
 export const Moderator = new Title("MODERATOR", "Premium")
 

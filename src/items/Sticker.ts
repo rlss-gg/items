@@ -46,9 +46,9 @@ export const GoldenGrump = new Sticker("Golden Grump", "Black Market", "t_ui_Gol
 export const EggHappy = new Sticker("Happy Egg", "Sport", "t_ui_Egg_Happy.png")
 export const EggAngry = new Sticker("Angry Egg", "Sport", "t_ui_Egg_Angry.png")
 export const EggSad = new Sticker("Sad Egg", "Sport", "t_ui_Egg_Sad.png")
-export const EggHappyDev = new Sticker("Dev Happy Egg", "Premium", "t_ui_Egg_Dev_Happy.png")
-export const EggAngryDev = new Sticker("Dev Angry Egg", "Premium", "t_ui_Egg_Dev_Angry.png")
-export const EggSadDev = new Sticker("Dev Sad Egg", "Premium", "t_ui_Egg_Dev_Sad.png")
+export const EggHappyDev = new Sticker("Dev Happy Egg", "Developer", "t_ui_Egg_Dev_Happy.png")
+export const EggAngryDev = new Sticker("Dev Angry Egg", "Developer", "t_ui_Egg_Dev_Angry.png")
+export const EggSadDev = new Sticker("Dev Sad Egg", "Developer", "t_ui_Egg_Dev_Sad.png")
 
 // S17
 export const Sharp = new Sticker("Sharp", "Sport", "t_ui_Sticker_Shark.png")

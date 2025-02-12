@@ -38,7 +38,7 @@ export const StartBright = new Avatar("Star Bright", "Base", "t_ui_Avatar_StarBr
 export const Takumi = new Avatar("Takumi", "Base", "t_ui_Avatar_Takumi.png")
 export const None = new Avatar("None", "Base", "t_ui_AvatarDefault.png")
 export const GildedBall = new Avatar("Gilded Ball", "Black Market", "t_ui_Avatar_GildedBall.png")
-export const Psyonix = new Avatar("Psyonix", "Premium", "t_ui_Avatar_Psyonix.png")
+export const Psyonix = new Avatar("Psyonix", "Developer", "t_ui_Avatar_Psyonix.png")
 
 // S17
 export const IceCube = new Avatar("Ice Cube", "Sport", "t_ui_Avatar_MeltingIcecube.png")
