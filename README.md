@@ -121,8 +121,13 @@ Some items are not currently listed in this package.
 
 - Beach Party (Goal Explosion)
 - Bi Egg (Sticker)
+- Black Hole (Sticker)
+- Bottomless Skull (Avatar)
+- Burning Star (Avatar)
 - Cactus Guy (Avatar)
 - Cereal (Avatar)
+- Crescent Moon (Avatar)
+- Dark Void (Banner)
 - Deadlicious (Avatar)
 - Default Blue (Banner)
 - Default Orange (Banner)

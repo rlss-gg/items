@@ -67,6 +67,11 @@ export const SnakeLantern = new Sticker("Snake Lantern", "Sport", "t_ui_sticker_
 export const WinterEgg = new Sticker("Winter Egg", "Sport", "t_ui_sticker_SantaEgg.png")
 export const Help = new Sticker("HELP", "Special", "t_ui_Sticker_HELP.png")
 
+// S20
+export const SOS = new Sticker("SOS", "Special", "t_ui_sticker_SOS.png")
+export const Great = new Sticker("Great", "Special", "t_ui_sticker_gr8.png")
+export const AstroDoggo = new Sticker("Astro Doggo", "Deluxe", "t_ui_sticker_AstroDoggo.png")
+
 // Season Rewards
 export const S1Bronze = new Sticker("S1 Bronze", "Luxury", "t_ui_S1_Bronze.png")
 export const S1Silver = new Sticker("S1 Silver", "Luxury", "t_ui_S1_Silver.png")

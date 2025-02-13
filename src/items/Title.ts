@@ -37,6 +37,14 @@ export const ColdWishes = new Title("COLD WISHES", "Luxury")
 export const GlossySnake = new Title("GLOSSY SNAKE", "Luxury")
 export const WinterHazard = new Title("WINTER HAZARD", "Special")
 
+// S20
+export const MilkyWayfarer = new Title("MILKY WAYFARER", "Special")
+export const ZeroGravity = new Title("ZERO GRAVITY", "Special")
+export const LightyearsAhead = new Title("LIGHTYEARS AHEAD", "Deluxe")
+export const CarMeMaybe = new Title("CAR ME MAYBE", "Luxury")
+export const RightOnTime = new Title("RIGHT ON TIME", "Luxury")
+export const ThisIsNotATitle = new Title("THIS IS NOT A TITLE", "Luxury")
+
 // Season Rewards
 export const Season = (rank: Game.CompetitiveRank, season: Game.Season) => (Number(season) === season ? new Title(`S${season} ${rank.toUpperCase()}`, "Luxury") : new Title(`${season} ${rank.toUpperCase()}`, "Special"))
 export const SeasonLtm = (rank: Game.CompetitiveRank, season: Game.ReleaseSeason, mode: Game.LtmMode) => new Title(`S${season} ${mode.toUpperCase()} ${rank.toUpperCase()}`, "Luxury")

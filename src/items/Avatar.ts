@@ -64,6 +64,15 @@ export const Sandman = new Avatar("Sandman", "Luxury", "t_ui_Avatar_Sandman.png"
 export const Mistletoe = new Avatar("Mistletoe", "Luxury", "t_ui_Avatar_Mistletoe.png")
 export const GoodLuckKnot = new Avatar("Good Luck Knot", "Luxury", "t_ui_Avatar_GoodLuckKnot.png")
 
+// S20
+export const SunnySideUp = new Avatar("Sunny Side Up", "Special", "t_ui_Avatar_SunnySideUp.png")
+export const ShootingStarFlag = new Avatar("Shooting Star Flag", "Special", "t_ui_Avatar_ShootingStarFlag.png")
+export const StarryTheAlien = new Avatar("Starry The Alien", "Deluxe", "t_ui_Avatar_StarryTheAlien.png")
+export const AstroDog = new Avatar("Astro Dog", "Deluxe", "t_ui_Avatar_AstroShiba.png")
+export const AstroLover = new Avatar("Astro Lover", "Luxury", "t_ui_Avatar_AstroLover.png")
+export const EquinoxStar = new Avatar("Equinox Star", "Luxury", "t_ui_avatar_EquinoxStar.png")
+export const SpaceTrickster = new Avatar("Space Trickster", "Luxury", "t_ui_Avatar_SpaceTrickster.png")
+
 // Season Rewards
 export const S3Bronze = new Avatar("S3 Bronze", "Luxury", "t_ui_Avatar_S3_Bronze.png")
 export const S3Silver = new Avatar("S3 Silver", "Luxury", "t_ui_Avatar_S3_Silver.png")
