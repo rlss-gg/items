@@ -73,6 +73,17 @@ export const AstroLover = new Avatar("Astro Lover", "Luxury", "t_ui_Avatar_Astro
 export const EquinoxStar = new Avatar("Equinox Star", "Luxury", "t_ui_avatar_EquinoxStar.png")
 export const SpaceTrickster = new Avatar("Space Trickster", "Luxury", "t_ui_Avatar_SpaceTrickster.png")
 
+// S21
+export const UnluckyFly = new Avatar("Unlucky Fly", "Special", "t_ui_Avatar_UnluckyFly.png")
+export const Aaawk = new Avatar("AAAWK", "Special", "t_ui_Avatar_AAAWK.png")
+export const AncientToken = new Avatar("Ancient Token", "Special", "t_ui_Avatar_AncientToken.png")
+export const GrumpyFace = new Avatar("Grumpy Face", "Deluxe", "t_ui_Avatar_GrumpyFace.png")
+export const FriendlyGecko = new Avatar("Friendly Gecko", "Deluxe", "t_ui_Avatar_FriendlyGecko.png")
+export const ChillCapybara = new Avatar("Chill Capybara", "Deluxe", "t_ui_Avatar_ChillCapybara.png")
+export const BunnyImpersonator = new Avatar("Bunny Impersonator", "Luxury", "t_ui_Avatar_BunnyImpersonator.png")
+export const BirdOfMay = new Avatar("Bird of May", "Luxury", "t_ui_avatae_BirdOfMay.png")
+export const ILoveMom = new Avatar("I Love Mom", "Luxury", "t_ui_avatae_ILoveMom.png")
+
 // Season Rewards
 export const S3Bronze = new Avatar("S3 Bronze", "Luxury", "t_ui_Avatar_S3_Bronze.png")
 export const S3Silver = new Avatar("S3 Silver", "Luxury", "t_ui_Avatar_S3_Silver.png")
@@ -116,3 +127,10 @@ export const S19Platinum = new Avatar("S19 Platinum", "Luxury", "t_ui_Avatar_S19
 export const S19Diamond = new Avatar("S19 Diamond", "Luxury", "t_ui_Avatar_S19_Diamond.png")
 export const S19Champion = new Avatar("S19 Champion", "Luxury", "t_ui_Avatar_S19_Champion.png")
 export const S19GrandChampion = new Avatar("S19 Grand Champion", "Luxury", "t_ui_Avatar_S19_GrandChampion.png")
+export const S21Bronze = new Avatar("S21 Bronze", "Luxury", "t_ui_Avatar_S21_Bronze.png")
+export const S21Silver = new Avatar("S21 Silver", "Luxury", "t_ui_Avatar_S21_Silver.png")
+export const S21Gold = new Avatar("S21 Gold", "Luxury", "t_ui_Avatar_S21_Gold.png")
+export const S21Platinum = new Avatar("S21 Platinum", "Luxury", "t_ui_Avatar_S21_Platinum.png")
+export const S21Diamond = new Avatar("S21 Diamond", "Luxury", "t_ui_Avatar_S21_Diamond.png")
+export const S21Champion = new Avatar("S21 Champion", "Luxury", "t_ui_Avatar_S21_Champion.png")
+export const S21GrandChampion = new Avatar("S21 Grand Champion", "Luxury", "t_ui_Avatar_S21_GrandChampion.png")

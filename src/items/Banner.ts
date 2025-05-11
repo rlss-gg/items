@@ -84,6 +84,17 @@ export const ILoveSpace = new Banner("I Love Space", "Luxury", "t_ui_Thumb_Banne
 export const GuardianOfStars = new Banner("Guardian of Stars", "Luxury", "t_ui_Thumb_Banner_GuardianOfStars.png", "t_ui_Banner_GuardianOfStars.png")
 export const MartianInTheBox = new Banner("Martian In The Box", "Luxury", "t_ui_Thumb_Banner_MartianInTheBox.png", "t_ui_Banner_MartianInTheBox.png")
 
+// S21
+export const VenusFlytrap = new Banner("Venus Flytrap", "Special", "t_ui_Thumb_Banner_VenusFlyTrap.png", "t_ui_Banner_VenusFlyTrap.png")
+export const ParrotRuins = new Banner("Parrot Ruins", "Special", "t_ui_Thumb_Banner_ParrotRuins.png", "t_ui_Banner_ParrotRuins.png")
+export const MythicalMural = new Banner("Mythical Mural", "Special", "t_ui_Thumb_Banner_MythicalMural.png", "t_ui_Banner_MythicalMural.png")
+export const TiedyeChameleon = new Banner("Tie-dye Chameleon", "Deluxe", "t_ui_Thumb_Banner_Tie-DyeChameleon.png", "t_ui_Banner_Tie-DyeChameleon.png")
+export const BugDelight = new Banner("Bug Delight", "Deluxe", "t_ui_Thumb_Banner_BugDelight.png", "t_ui_Banner_BugDelight.png")
+export const CapyAndCoco = new Banner("Capy and Coco", "Deluxe", "t_ui_Thumb_Banner_CapyAndCroco.png", "t_ui_Banner_CapyAndCroco.png")
+export const FullOfShells = new Banner("Full of Shells", "Luxury", "t_ui_Thumb_Banner_FullOfShells.png", "t_ui_Banner_FullOfShells.png")
+export const FestiveWings = new Banner("Festive Wings", "Luxury", "t_ui_Thumb_Banner_FestiveWings.png", "t_ui_Banner_FestiveWings.png")
+export const MommysStrongest = new Banner("Mommy's Strongest", "Luxury", "t_ui_Thumb_Banner_MommysStrongest.png", "t_ui_Banner_MommysStrongest.png")
+
 // Season Rewards
 export const S2Bronze = new Banner("S2 Bronze", "Luxury", "t_ui_Thumb_Banner_S2_Bronze.png", "t_ui_Banner_s2bronze.png")
 export const S2Silver = new Banner("S2 Silver", "Luxury", "t_ui_Thumb_Banner_S2_Silver.png", "t_ui_Banner_s2silver.png")
