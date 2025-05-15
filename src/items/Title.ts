@@ -49,6 +49,7 @@ export const ThisIsNotATitle = new Title("THIS IS NOT A TITLE", "Luxury")
 export const EggHunter = new Title("EGG HUNTER", "Luxury")
 export const ElMariachi = new Title("EL MARIACHI", "Luxury")
 export const MamasPride = new Title("MAMA'S PRIDE", "Luxury")
+export const Sorry = new Title("SORRY", "Luxury")
 
 // Season Rewards
 export const Season = (rank: Game.CompetitiveRank, season: Game.Season) => (Number(season) === season ? new Title(`S${season} ${rank.toUpperCase()}`, "Luxury") : new Title(`${season} ${rank.toUpperCase()}`, "Special"))
