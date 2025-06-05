@@ -75,6 +75,9 @@ export const AstroDoggo = new Sticker("Astro Doggo", "Deluxe", "t_ui_sticker_Ast
 // S21
 export const MamaMia = new Sticker("Mama Mia", "Luxury", "t_ui_sticker_MamaMia.png")
 
+// S22
+export const SorryLagging = new Sticker("Sorry. Lagging", "Deluxe", "t_ui_SorryLagging.png")
+
 // Season Rewards
 export const S1Bronze = new Sticker("S1 Bronze", "Luxury", "t_ui_S1_Bronze.png")
 export const S1Silver = new Sticker("S1 Silver", "Luxury", "t_ui_S1_Silver.png")

@@ -95,6 +95,9 @@ export const FullOfShells = new Banner("Full of Shells", "Luxury", "t_ui_Thumb_B
 export const FestiveWings = new Banner("Festive Wings", "Luxury", "t_ui_Thumb_Banner_FestiveWings.png", "t_ui_Banner_FestiveWings.png")
 export const MommysStrongest = new Banner("Mommy's Strongest", "Luxury", "t_ui_Thumb_Banner_MommysStrongest.png", "t_ui_Banner_MommysStrongest.png")
 
+// S22
+export const LongEaredTraveller = new Banner("Long-Eared Traveler", "Deluxe", "t_ui_Thumb_Banner_LongEaredTraveler.png", "t_ui_Banner_LongEaredTraveler.png")
+
 // Season Rewards
 export const S2Bronze = new Banner("S2 Bronze", "Luxury", "t_ui_Thumb_Banner_S2_Bronze.png", "t_ui_Banner_s2bronze.png")
 export const S2Silver = new Banner("S2 Silver", "Luxury", "t_ui_Thumb_Banner_S2_Silver.png", "t_ui_Banner_s2silver.png")

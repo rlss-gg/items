@@ -84,6 +84,9 @@ export const BunnyImpersonator = new Avatar("Bunny Impersonator", "Luxury", "t_u
 export const BirdOfMay = new Avatar("Bird of May", "Luxury", "t_ui_avatae_BirdOfMay.png")
 export const ILoveMom = new Avatar("I Love Mom", "Luxury", "t_ui_avatae_ILoveMom.png")
 
+// S22
+export const StingerDanger = new Avatar("Stinger Danger", "Deluxe", "t_ui_Avatar_StingerDanger.png")
+
 // Season Rewards
 export const S3Bronze = new Avatar("S3 Bronze", "Luxury", "t_ui_Avatar_S3_Bronze.png")
 export const S3Silver = new Avatar("S3 Silver", "Luxury", "t_ui_Avatar_S3_Silver.png")
@@ -134,3 +137,10 @@ export const S21Platinum = new Avatar("S21 Platinum", "Luxury", "t_ui_Avatar_S21
 export const S21Diamond = new Avatar("S21 Diamond", "Luxury", "t_ui_Avatar_S21_Diamond.png")
 export const S21Champion = new Avatar("S21 Champion", "Luxury", "t_ui_Avatar_S21_Champion.png")
 export const S21GrandChampion = new Avatar("S21 Grand Champion", "Luxury", "t_ui_Avatar_S21_GrandChampion.png")
+export const S22Bronze = new Avatar("S22 Bronze", "Luxury", "t_ui_Avatar_S22_Bronze.png")
+export const S22Silver = new Avatar("S22 Silver", "Luxury", "t_ui_Avatar_S22_Silver.png")
+export const S22Gold = new Avatar("S22 Gold", "Luxury", "t_ui_Avatar_S22_Gold.png")
+export const S22Platinum = new Avatar("S22 Platinum", "Luxury", "t_ui_Avatar_S22_Platinum.png")
+export const S22Diamond = new Avatar("S22 Diamond", "Luxury", "t_ui_Avatar_S22_Diamond.png")
+export const S22Champion = new Avatar("S22 Champion", "Luxury", "t_ui_Avatar_S22_Champion.png")
+export const S22GrandChampion = new Avatar("S22 Grand Champion", "Luxury", "t_ui_Avatar_S22_GrandChampion.png")
